@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Noto+Serif+KR:wght@200&family=Song+Myung&display=swap");
+@font-face {
+  font-family: "East Sea Dokdo", cursive;
+  font-family: "Noto Serif KR", serif;
+  font-family: "Song Myung", serif;
+  src: url("https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Noto+Serif+KR:wght@200&family=Song+Myung&display=swap")
+    format("WOFF");
+  font-style: normal;
+  font-weight: normal;
+}
+
+.lead {
+  font-family: "Noto Serif KR";
+  font-style: italic;
+  font-size: 23px;
+  color: black;
+}
+
+.row {
+  font-family: "song Myung";
+  font-size: 18px;
+}
+
+.col-md-7 {
+  font-size: 3em;
+  color: green;
+  justify-content: space-around;
+}
+
+.col-lg-4 {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.text-muted {
+  font-size: 28px;
+  font-family: "East Sea Dokdo";
+}
